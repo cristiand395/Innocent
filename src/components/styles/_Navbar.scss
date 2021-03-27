@@ -1,0 +1,18 @@
+.Navbar__container{
+    background: #4361EE;
+    padding-top: 10px;
+    padding-bottom: 2px;
+    box-shadow: 3px 3px 5px 0px rgba(0, 0, 0, 0.16);
+    margin-bottom: 35px;
+}
+.Navbar__logo{
+    font-family: 'Fredoka One', cursive;
+    font-size: 2.8rem;
+    color: white;
+}
+.Navbar__logo:hover{
+    text-decoration: none;
+}
+.Navbar__logo:focus{
+    text-decoration: none;
+}

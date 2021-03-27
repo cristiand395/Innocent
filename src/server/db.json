@@ -1,0 +1,60 @@
+{
+    "grupal":  [
+        {
+            "id": 1,
+            "title": "Seco",
+            "description": "El jugador debe beber todo lo que tiene en el vaso de una, si no tiene llenarlo por payaso."
+        },
+        {
+            "id": 2,
+            "title": "Sin parar",
+            "description": "El jugador debe beber por 8 segundos continuos sin parar."
+        },
+        {
+            "id": 3,
+            "title": "Guerra",
+            "description": "Todos del sexo opuesto beben."
+        },
+        {
+            "id": 4,
+            "title": "Tu momento",
+            "description": "Elige a alguien para beber juntos."
+        },
+        {
+            "id": 5,
+            "title": "Hasta el suelo",
+            "description": "Debe bailar un perreo hasta que llegue al suelo."
+        }
+    ],
+    "duo":  [
+        {
+            "id": 1,
+            "title": "Secreto",
+            "description": "Cuenta algo que no sepa la otra persona."
+        }
+    ],
+    "grupalParticipants":[
+        {
+            "id": 1,
+            "name": ""
+        },
+        {
+            "id": 2,
+            "name": ""
+        },
+        {
+            "id": 3,
+            "name": ""
+        }
+    ],
+    "duoParticipants":[
+        {
+            "id": 1,
+            "name": ""
+        },
+        {
+            "id": 2,
+            "name": ""
+        }
+    ]
+}

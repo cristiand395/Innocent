@@ -1,0 +1,11 @@
+.BtnMain {
+    background: $color-secondary-1;
+    color: $font-color-button;
+    font-size: 1.4rem;
+    padding: 12px;
+    min-width: 93px;
+    display: flex;
+    justify-content: center;
+    border-radius: 24px;
+    cursor: pointer;
+}
